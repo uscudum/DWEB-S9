@@ -1,0 +1,5 @@
+:root { --azul: #1e3a5f; }
+body { color: #374151; }
+.auth-card { max-width: 500px; }
+.nav-pills .nav-link { color: var(--azul); }
+.nav-pills .nav-link.active { background: var(--azul); }
